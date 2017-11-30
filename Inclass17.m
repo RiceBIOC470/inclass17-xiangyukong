@@ -1,3 +1,9 @@
+% Gb comments
+1.	80 Your image at the end does not overlap because the dimensions were not correctly adjusted. 
+2.	100
+overall: 90
+
+
 %In this folder, you will find two images img1.tif and img2.tif that have
 %some overlap. Use two different methods to align them - the first based on
 %pixel values in the original images and the second using the fourier
